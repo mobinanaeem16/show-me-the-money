@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+}
+
+.container{
+  padding: 20px;
+  margin:20px;
+}
+.table-css{
+  
+     border: 1px;
+     width:100%;
+     margin-top: 20px;
+     text-align:left;
+     table-layout:fixed;
+}
+.table-header{
+  border: 1px solid #ddd;
+  padding:10px;
+  text-align:left;
+}
+.cells{
+  border: 1px solid #ddd; 
+  padding: 10px; 
+  text-align: left;
+}
+
+.headings {
+  display: flex;
+  flex-direction: column;
+  font-size: x-large;
+  font-weight: 700;
+}
+
+.sub-headings{
+  font-weight:800;
+  font-size: large;
+}
+
+.sub-sub-headings{
+  font-weight:700;
+  font-size: medium;
+}
+.summary-row{
+  font-weight:580;
+  font-size: medium;
+}
